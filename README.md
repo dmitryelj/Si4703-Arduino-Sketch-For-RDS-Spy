@@ -2,8 +2,11 @@
 Arduino sketch for Si4703 FM Tuner with RDS Spy support.
 
 Arduino sketch helps to use Si4703 FM RDS Tuner Breakout Board with RDS Spy software (http://rdsspy.com).
+
 Made by Dmitrii dmitryelj@gmail.com.
+
 2016-07-03. Version 1.0.
+
 See Wiki section for more details.
 
 # Usage:
