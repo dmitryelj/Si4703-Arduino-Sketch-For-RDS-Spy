@@ -1,11 +1,12 @@
 # Si4703-Arduino-Sketch-For-RDS-Spy
-Arduino sketch for Si4703 FM Tuner with RDS Spy support
+Arduino sketch for Si4703 FM Tuner with RDS Spy support.
 
-Arduino sketch helps to use Si4703 FM RDS Tuner Breakout Board with RDS Spy software (http://rdsspy.com)
-Made by Dmitrii dmitryelj@gmail.com
-2016-07-03. Version 1.0
+Arduino sketch helps to use Si4703 FM RDS Tuner Breakout Board with RDS Spy software (http://rdsspy.com).
+Made by Dmitrii dmitryelj@gmail.com.
+2016-07-03. Version 1.0.
+See Wiki section for more details.
 
-Usage:
+# Usage:
 
 1) Connect Si4703 FM RDS Tuner Breakout Board to Arduino
    3.3V Arduino -> Si4704 VCC
